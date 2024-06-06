@@ -1,4 +1,4 @@
-# Covid19 Exploratory Dataset Analysis Project ising SQL
+# Covid19 Exploratory Dataset Analysis Project using SQL
 ### Covid-19 Data Exploration
 
 #### Overview
